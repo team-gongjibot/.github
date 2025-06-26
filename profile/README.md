@@ -189,10 +189,10 @@ e.g. C:\Users\{사용자}\.lmstudio\models\Qwen3\Qwen3_4B_collage_Chat\qwen_fina
 # 📌 주요 기능
 
 ## 홈 화면
-![image](https://github.com/user-attachments/assets/5a9996a8-c7e7-4933-803c-ad7fbf176559)
+
 
 ## 회원가입
-![image](https://github.com/user-attachments/assets/f24b2393-2d23-4607-93a3-00ad58126f10)
+![Image](https://github.com/user-attachments/assets/c83787bd-d6ad-48a9-9d8c-7651dd4efa5b)
 
 ## 로그인
 
