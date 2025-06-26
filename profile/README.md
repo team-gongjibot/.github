@@ -18,6 +18,9 @@ RAG(Retrieval-Augmented Generation) 기술을 활용하여 대화형 챗봇 서�
 - 요약 제공: 핵심 내용을 간결하게 요약하여 시간을 절약함
 - 마크다운 지원: 챗봇 응답 시 -, **, # 과 같은 마크다운 형식으로 응답하는 경우 이를 지원하여 사용자 가독성을 향상시킴
 
+# 🖊️ 아키텍처
+![image](https://github.com/user-attachments/assets/df6c805a-5d0f-41af-8992-9d9e1421cadd)
+
 # 📜 시작 가이드
 ## 요구사항
 - Java 17 이상
@@ -178,12 +181,18 @@ e.g. C:\Users\{사용자}\.lmstudio\models\Qwen3\Qwen3_4B_collage_Chat\qwen_fina
 # ⚙️ 기술 스택
 | 분류 | 기술 스택 |
 |---|---|
-| 프론트엔드 | <img src="https://img.shields.io/badge/react-#61DAFB?style=for-the-badge&logo=react&logoColor=white"> |
-| 백엔드 | 내용 2-2 |
-| AI | 내용 2-3 |
-
-# 🖥️ 화면 구성/API 주소
+| 프론트엔드 | <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> |
+| 백엔드 | <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> |
+| 인프라 & 데이터베이스 | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> |
+| AI | <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"/> <img src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/> |
 
 # 📌 주요 기능
 
-# 🖊️ 아키텍처
+## 홈 화면
+![image](https://github.com/user-attachments/assets/5a9996a8-c7e7-4933-803c-ad7fbf176559)
+
+## 회원가입
+![image](https://github.com/user-attachments/assets/f24b2393-2d23-4607-93a3-00ad58126f10)
+
+## 로그인
+
