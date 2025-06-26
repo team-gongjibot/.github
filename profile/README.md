@@ -188,11 +188,20 @@ e.g. C:\Users\{사용자}\.lmstudio\models\Qwen3\Qwen3_4B_collage_Chat\qwen_fina
 
 # 📌 주요 기능
 
-## 홈 화면
-
+## 인증번호 발송
+![Image](https://github.com/user-attachments/assets/22e79bff-63ba-4ca1-9a9d-766f826455be)
 
 ## 회원가입
-![Image](https://github.com/user-attachments/assets/c83787bd-d6ad-48a9-9d8c-7651dd4efa5b)
+![Image](https://github.com/user-attachments/assets/cd04ab2d-98b2-46e0-8bc3-57ea46bef1d3)
 
 ## 로그인
+![Image](https://github.com/user-attachments/assets/7d6be47b-6f04-49a0-8627-97774dbd0946)
 
+## 소셜 로그인
+![Image](https://github.com/user-attachments/assets/a99583d4-e6a8-446d-99c1-ae1227653c1c)
+
+## 챗봇 서비스
+![Image](https://github.com/user-attachments/assets/7b1b9dfc-91d8-484f-a8a9-5b7a4d31889f)
+
+## 채팅 내역 조회
+![Image](https://github.com/user-attachments/assets/748f367a-cd5d-43d3-9e6e-cd676b46b435)
